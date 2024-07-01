@@ -5,7 +5,7 @@ def nada_main():
     jaskrish_singh = Party(name="Jaskrish Singh")
     vamshi = Party(name="Vamshi")
     prayashu = Party(name="Prayashu")
-    jinea = Party(name="Jinea")
+    jinea = Party(name="Jinia")
     datta = Party(name="Datta")
     grandmaster = Party(name="GrandMaster")
 
@@ -24,7 +24,7 @@ def nada_main():
         story = (
             "Once upon a grind in the coding world, I took my shot but got the pass. "
             "I flipped the script, got inspired, and cooked up something fresh. "
-            "Now, I’m droppin' it with the squad—Jaskrish Singh, Vamshi, Prayashu, Jinea, and Datta. "
+            "Now, I’m droppin' it with the squad—Jaskrish Singh, Vamshi, Prayashu, Jinia, and Datta. "
             "This program? It’s got that finesse, mixin' elegance with mad skills. "
             "Time to make waves and show 'em what I’m about!"
         )
